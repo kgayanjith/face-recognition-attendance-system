@@ -23,7 +23,7 @@ A real-time facial recognition attendance system built with OpenCV. Automaticall
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/face-recognition-attendance-system.git
+git clone https://github.com/kgayanjith/face-recognition-attendance-system.git
 cd face-recognition-attendance-system
 ```
 
@@ -142,7 +142,7 @@ Contributions are welcome! Feel free to:
 
 ## 👤 Author
 
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Your Name - [GitHub Profile](https://github.com/kgayanjith)
 
 ## 🙏 Acknowledgments
 
